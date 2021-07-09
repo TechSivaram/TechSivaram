@@ -1,16 +1,31 @@
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+About me
+I am a Technical Architect with 16+ years of experience on 20+ enterprise-grade software projects from various functional domains including HealthCare, Financial Services, Logistics, Banking, etc...
+
+What I'm Doing
+Presales, Architect, Solution, Design, Develop, Maintain, Mentor, Ownership, Lead, Talent Acquisition
+
+Tech Stacks
+Microsoft, MERN, MEAN, Cloud (AWS, Azure), PYTHON, MS SQL, PostgreSQL, HASURA, GraphQL, Docker, Kubernetes, Microservices, WebRTC, Twilio, Xstate, ASP.NET, .net core, Linux Deployments, EntityFramework core, Java, Spring Boot, SyncFusion, DevOps, Ansible, Git, Bit Bucket, GitLab, GitHub, Source Tree, Ionic-Capacitor, Flutter, Dart, Android, IOS (not much)
+
+On AWS
+Route53, Cloud Front, ACM, Secrets Manager, S3, Load Balancers, Auto Scaling, EC2, ECS, Fargate, EKS, EFS, RDS, Aurora (PostgreSQL), Cognito, Pinpoint, SNS, SES, AWS Connect (contact Centre), Chime, Kinesis, Kinesis Signal Channels, CloudWatch, IAM, Code Commit, Elastic Beanstalk, ElastiCache (Redis), Code Build, Code Deploy, Code Pipeline, Lambda, API Gateway, Dynamo DB, Document DB, Database Migration Services, Billing Optimization, Cloud Formation, Textract
+
+On Azure
+Active Directory Services, Power BI, Share point
+
 <br>
 ## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sivaram-movva)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)
 <br>
 <br>
+
 ## Expertise
+
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
