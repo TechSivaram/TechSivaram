@@ -25,6 +25,7 @@ Active Directory Services, Power BI, Share point
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/11596159/sivaramakrishna-movva?tab=profile)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/sivaramakrishna.movva)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SivaramMovva)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://studio.youtube.com/channel/UCXZOpJT8N2eZiG0h7C8JwTA)
 <br>
 <br>
 
