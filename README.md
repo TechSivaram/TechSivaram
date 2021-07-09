@@ -43,7 +43,6 @@ Active Directory Services, Power BI, Share point
 <img align="left" alt="django-rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 <img align="left" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img align="left" alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img align="left" alt="Hasura" src="https://img.shields.io/badge/docs-haura.io-blue.svg?style=for-the-badge&logo=Postman&logoColor=white" />
 
 #
@@ -76,7 +75,7 @@ Active Directory Services, Power BI, Share point
 
 #
 <img align="left" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
+<img align="left" alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <br/>
 
 <br>
