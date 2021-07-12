@@ -88,6 +88,6 @@ Active Directory Services, Power BI, Share point
 <img align="left" alt="Braintree" src="https://img.shields.io/badge/Braintree-Black?style=for-the-badge&logo=Braintree&logoColor=white" />
 
 #
-<img align="left" alt="WebRTC" src="https://img.shields.io/badge/WebRTC-blue?style=for-the-badge&logo=webrtc" />
+<img align="left" alt="WebRTC" src="https://img.shields.io/badge/WebRTC-black?style=for-the-badge&logo=webrtc&logoColor=green" />
 <br>
 <br>
