@@ -84,10 +84,10 @@ Active Directory Services, Power BI, Share point
 <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 
 #
-<img align="left" alt="Stripe" src="https://img.shields.io/badge/Stripe-blue?style=for-the-badge&logo=stripe&logoColor=black" />
+<img align="left" alt="Stripe" src="https://img.shields.io/badge/Stripe-blue?style=for-the-badge&logo=stripe" />
 <img align="left" alt="Braintree" src="https://img.shields.io/badge/Braintree-Black?style=for-the-badge&logo=Braintree&logoColor=white" />
 
 #
-<img align="left" alt="WebRTC" src="https://img.shields.io/badge/WebRTC-blue?style=for-the-badge&logo=webrtc&logoColor=black" />
+<img align="left" alt="WebRTC" src="https://img.shields.io/badge/WebRTC-blue?style=for-the-badge&logo=webrtc" />
 <br>
 <br>
