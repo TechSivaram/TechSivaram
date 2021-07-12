@@ -97,5 +97,6 @@ Active Directory Services, Power BI, Share point
 <img align="left" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-grey?style=for-the-badge&logo=bitbucket&logoColor=blue" />
 <img align="left" alt="GitLab" src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab&logoColor=blue" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=blue" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=git&logoColor=blue" />
 <br>
 <br>
