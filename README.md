@@ -58,6 +58,7 @@ Active Directory Services, Power BI, Share point
 <img align="left" alt="azure" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Twilio-black.svg?&style=for-the-badge&logo=twilio&logoColor=orange" />
 
 #
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
