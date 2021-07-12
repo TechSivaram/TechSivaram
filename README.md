@@ -93,8 +93,8 @@ Active Directory Services, Power BI, Share point
 <img align="left" alt="Google Maps" src="https://img.shields.io/badge/Google Maps-green?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 #
-<img align="left" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-white?style=for-the-badge&logo=bitbucket&logoColor=blue" />
-<img align="left" alt="GitLab" src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=blue" />
-<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=blue" />
+<img align="left" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-grey?style=for-the-badge&logo=bitbucket&logoColor=blue" />
+<img align="left" alt="GitLab" src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab&logoColor=blue" />
+<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=blue" />
 <br>
 <br>
