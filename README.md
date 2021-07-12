@@ -89,5 +89,6 @@ Active Directory Services, Power BI, Share point
 
 #
 <img align="left" alt="WebRTC" src="https://img.shields.io/badge/WebRTC-black?style=for-the-badge&logo=webrtc&logoColor=green" />
+<img align="left" alt="Socket.io	" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio&logoColor=green" />
 <br>
 <br>
