@@ -84,6 +84,6 @@ Active Directory Services, Power BI, Share point
 
 #
 <img align="left" alt="Stripe" src="https://img.shields.io/badge/Stripe-blue?style=for-the-badge&logo=stripe&logoColor=black" />
-<img align="left" alt="Braintree" src="https://img.shields.io/badge/Braintree-white?style=for-the-badge&logo=Braintree&logoColor=white" />
+<img align="left" alt="Braintree" src="https://img.shields.io/badge/Braintree-Black?style=for-the-badge&logo=Braintree&logoColor=white" />
 <br>
 <br>
