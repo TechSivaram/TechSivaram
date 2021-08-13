@@ -1,10 +1,3 @@
-<!-- Badge Code - Do Not Change The Code -->
-            <a class="hitCounter" href="https://visitorshitcounter.com/" target="_blank" title="Hit counter"
-                data-name="c3b8d1f9f523d1a6bf4bb793425a1f35|9|page|1|rgb(25, 68, 222);|#ffffff|large|s-hit">Hit
-                Counter</a>
-            <script>document.write("<script type='text/javascript' src='https://visitorshitcounter.com/js/hitCounter.js?v=" + Date.now() + "'><\/script>");</script>
-            <!-- Badge Code End Here -->
-
 ## About me
 
 I am a <b>Technical Architect</b> with 16+ years of experience on 20+ enterprise-grade software projects from various functional domains including HealthCare, Financial Services, Logistics, Banking, etc...
