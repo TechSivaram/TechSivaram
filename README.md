@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a <b>Technical Architect</b> with 16+ years of experience on 20+ enterprise-grade software projects from various functional domains including HealthCare, Financial Services, Logistics, Banking, etc...
+I am a <b>Technical Architect</b> with 18+ years of experience on 20+ enterprise-grade software projects from various functional domains including HealthCare, Financial Services, Logistics, Banking, etc...
 
 ## What I'm Doing
 
