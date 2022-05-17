@@ -12,10 +12,10 @@ Presales, Architect, Solution, Design, Develop, Maintain, Mentor, Ownership, Lea
 
 Microsoft, MERN, MEAN, Cloud (AWS, Azure), PYTHON, MS SQL, PostgreSQL, HASURA, GraphQL, Docker, Kubernetes, Microservices, WebRTC, Twilio, Xstate, ASP.NET, .net core, Linux Deployments, EntityFramework core, Java, Spring Boot, SyncFusion, DevOps, Ansible, Git, Bit Bucket, GitLab, GitHub, Source Tree, Ionic-Capacitor, React-Native, Flutter, Dart, Android, IOS (not much), Electron, Electron Forge, Electron IPC
 
-##### EPIC, CERNER, FHIR, SMART ON FHIR, Interoperability in Healthcare
+##### EPIC, CERNER, FHIR, SMART ON FHIR, Interoperability in Healthcare, FHIR Works on AWS
 
 ## On AWS
-Route53, Cloud Front, ACM, Secrets Manager, S3, Load Balancers, Auto Scaling, EC2, ECS, Fargate, EKS, EFS, RDS, Aurora (PostgreSQL), Cognito, Pinpoint, SNS, SES, AWS Connect (contact Centre), Chime, Kinesis, Kinesis Signal Channels, CloudWatch, IAM, Code Commit, Elastic Beanstalk, ElastiCache (Redis), Code Build, Code Deploy, Code Pipeline, Lambda, API Gateway, Dynamo DB, Document DB, Database Migration Services, Billing Optimization, Cloud Formation, Textract
+Route53, Cloud Front, ACM, Secrets Manager, S3, Load Balancers, Auto Scaling, EC2, ECS, Fargate, EKS, EFS, RDS, Aurora (PostgreSQL), Cognito, Pinpoint, SNS, SES, AWS Connect (contact Centre), Chime, Kinesis, Kinesis Signal Channels, CloudWatch, IAM, Code Commit, Elastic Beanstalk, ElastiCache (Redis), Code Build, Code Deploy, Code Pipeline, Lambda, API Gateway, Dynamo DB, Document DB, Database Migration Services, Billing Optimization, Cloud Formation, Textract, FHIR Works on AWS, Glue
 
 ## On Azure
 Active Directory Services, Power BI, Share point
