@@ -2,7 +2,7 @@
 
 ## About me
 
-A highly experienced <b>Cloud Applications Architect</b> with 20+ years of experience in designing and implementing cloud solutions across multiple industries, including Healthcare, Financial Services, Logistics, and Banking. This individual has a strong track record of leading and delivering on 32+ enterprise-grade software projects. 
+A highly experienced <b>Cloud Applications Architect</b> with 20+ years of experience in designing and implementing cloud solutions across multiple industries, including Healthcare, Financial Services, Logistics, and Banking. Has a strong track record of leading and delivering on 32+ enterprise-grade software projects. 
 
 ## What I'm Doing
 
