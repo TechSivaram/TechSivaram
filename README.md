@@ -2,7 +2,16 @@
 
 ## About me
 
-A highly experienced <b>Cloud Applications Architect</b> with 20+ years of experience in designing and implementing cloud solutions across multiple industries, including Healthcare, Financial Services, Logistics, and Banking. Has a strong track record of leading and delivering on 32+ enterprise-grade software projects. 
+An accomplished and results-oriented Principal Cloud Solutions Architect with over **20 years of expertise** in software development, focusing on the **design, architecture, and deployment** of complex, secure, scalable, and cost-optimized enterprise-grade applications.
+
+I have a proven track record in leading technical strategy for **cloud solutions (AWS, Azure)**, specializing in **microservices architectures**, **RESTful API development**, and full-stack implementation, consistently incorporating **security by design** principles.
+
+My hands-on proficiency includes **C#**, **Python** (including **Boto3** for AWS automation), **SQL**, and **JavaScript**, with emerging experience in AI/ML technologies including RAG and SLMs.
+
+I am adept at providing **technical leadership and mentorship** to engineering teams, driving **performance optimization** and **scalability planning**, resulting in tangible performance gains on key projects.
+
+I excel in **stakeholder collaboration** to align technology with strategic business objectives and deliver impactful outcomes, ensuring robust **system security, risk management, and compliance** (including **HIPAA**, **PCI DSS**).
+
 
 ## What I'm Doing
 
