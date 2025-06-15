@@ -102,5 +102,8 @@ Active Directory Services, Power BI, Share point
 <img align="left" alt="GitLab" src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab&logoColor=blue" />
 <img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=blue" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git&logoColor=blue" />
+
+#
+<img align="left" alt="Mirth Connect" src="https://img.shields.io/badge/Mirth%20Connect-red?style=for-the-badge&logoColor=white" />
 <br>
 <br>
