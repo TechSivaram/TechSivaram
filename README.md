@@ -225,6 +225,119 @@ TechSivaram is founded on more than two decades of experience designing, buildin
 
 </div>
 
+
+
+---
+
+## 👤 Founder & Technical Leadership
+
+### About Sivaram
+
+Sivaram Movva is a **Principal Cloud Applications Architect and technology leader** with more than two decades of experience designing, architecting, developing, modernizing and delivering enterprise software solutions.
+
+His experience spans **cloud architecture, distributed systems, microservices, full-stack engineering, security-by-design, performance and scalability, healthcare interoperability, AI/ML and technical leadership**.
+
+He works across the full technology lifecycle — from **presales and architecture through solution design, development, delivery, modernization, optimization and technical ownership**.
+
+### What I Do
+
+- 🧭 **Architecture & Solution Design** — translate business needs into scalable technical architectures
+- ☁️ **Cloud Architecture** — design and modernize AWS and Azure cloud platforms
+- 🏗️ **Application Modernization** — re-platform legacy and enterprise applications
+- 💻 **Software Engineering** — build backend, frontend, mobile and distributed systems
+- 🔐 **Security & Compliance** — apply security-by-design and support regulated workloads
+- ⚡ **Performance & Scalability** — identify bottlenecks and engineer reliable high-scale systems
+- 🏥 **Healthcare Interoperability** — work with FHIR, SMART on FHIR and healthcare integrations
+- 🤖 **AI & Generative AI** — explore RAG, SLMs and practical AI-enabled applications
+- 👥 **Technical Leadership & Mentoring** — lead engineers, guide architecture and share knowledge
+- 🤝 **Presales & Stakeholder Collaboration** — connect business goals with practical technology solutions
+
+### Technology Expertise
+
+#### 🧩 Software & Application Engineering
+
+- C#, .NET, ASP.NET, .NET Core, Entity Framework Core
+- Java, Spring Boot
+- TypeScript, JavaScript, Node.js, NestJS, Next.js
+- React, Angular, Express.js, Django, Flask
+- REST, GraphQL, Hasura, Apollo
+- HTML5, CSS3
+- Python, Boto3
+- Mobile: Ionic, Capacitor, React Native, Flutter, Dart
+- Desktop: Electron, Electron Forge, Electron IPC
+
+#### ☁️ Cloud & DevOps
+
+**AWS**
+- Lambda, API Gateway, ECS, EKS, EC2
+- S3, CloudFront, Route 53
+- RDS, DynamoDB, ElastiCache
+- SQS, SNS, EventBridge
+- CloudWatch, CloudFormation, IAM
+- Cognito, KMS, Secrets Manager
+- VPC, Load Balancing and cloud-native architecture
+- FHIR Works on AWS
+
+**Microsoft Azure**
+- Azure Active Directory / Microsoft Entra concepts
+- Azure application and cloud services
+- Power BI
+- SharePoint
+
+**Platform & DevOps**
+- Docker, Kubernetes
+- CI/CD and deployment automation
+- Ansible
+- Git, GitHub, GitLab, Bitbucket
+- Linux
+- Infrastructure and production operations
+
+#### 🗄️ Data & Integration
+
+- PostgreSQL
+- Microsoft SQL Server
+- MongoDB
+- DynamoDB
+- Redis
+- SQL
+- WebRTC
+- Twilio
+- Socket.IO
+- Google Maps
+- Real-time and distributed integrations
+
+#### 🏥 Healthcare & Interoperability
+
+- FHIR
+- SMART on FHIR
+- FHIR Works on AWS
+- Mirth Connect
+- EPIC
+- CERNER
+- Healthcare interoperability
+- Healthcare system integration
+- HIPAA-aware architecture
+
+#### 🛠️ Engineering & Developer Tools
+
+- Visual Studio
+- Visual Studio Code
+- Postman
+- Swagger / OpenAPI
+- SourceTree
+- GitHub, GitLab and Bitbucket
+
+#### 💳 Payments & Platform Integrations
+
+- Stripe
+- Braintree
+
+### Technical Leadership
+
+The focus is not only on selecting technologies, but on **building solutions that are maintainable, secure, scalable and useful in the real world**.
+
+> **Technology should make life easier, solve meaningful problems and enable a better tomorrow.**
+
 ---
 
 <div align="center">
