@@ -213,6 +213,8 @@ We use this organization to **build, share and learn** through:
 
 <div align="center">
 
+<img src="./assets/founder-techsivaram.png" alt="TechSivaram" width="760"/>
+
 ### Sivaram Movva
 
 **Founder & Principal Cloud Applications Architect**
