@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/techsivaram-logo.png" alt="TechSivaram" width="760"/>
+<img src="./assets/techsivaram-hero-triranga.png" alt="TechSivaram" width="760"/>
 
 # Building Solutions That Scale.
 
